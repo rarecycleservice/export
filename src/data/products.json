@@ -1,0 +1,261 @@
+{
+    "products": [
+      {
+        "id": "hms-1",
+        "name": "HMS (Heavy Melting Steel)",
+        "description": "High-quality heavy melting steel scrap from various industrial sources, suitable for recycling and reuse in steel production.",
+        "image": "/assets/images/products/Hms scrap.png",
+        "category": "Ferrous Metals",
+        "subcategory": "HMS",
+        "featured": true
+      },
+      {
+        "id": "cast-1",
+        "name": "Cast Iron Scrap",
+        "description": "Recycled cast iron from automotive and industrial applications, ideal for foundries and metal casting operations.",
+        "image": "/assets/images/products/Cast iron.png",
+        "category": "Ferrous Metals",
+        "subcategory": "Cast Iron",
+        "featured": false
+      },
+      {
+        "id": "rail-1",
+        "name": "Rail Scrap",
+        "description": "High-quality recycled rail scrap from decommissioned railway tracks, suitable for steel production.",
+        "image": "/assets/images/products/Rail scrap.png",
+        "category": "Ferrous Metals",
+        "subcategory": "Rail",
+        "featured": true
+      },
+      {
+        "id": "al-1",
+        "name": "Aluminum Section",
+        "description": "Clean aluminum sections from various industrial and commercial applications, ready for recycling.",
+        "image": "/assets/images/products/Aluminium section.webp",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": false
+      },
+      {
+        "id": "al-2",
+        "name": "UBC (Used Beverage Cans)",
+        "description": "Clean, sorted aluminum beverage cans ready for recycling and reprocessing.",
+        "image": "/assets/images/products/beverage cans.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": false
+      },
+      {
+        "id": "al-3",
+        "name": "Aluminum Extrusion",
+        "description": "Recycled aluminum extrusion profiles from various industrial applications, ideal for remelting.",
+        "image": "/assets/images/products/Aluminium extrusion scrap.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": true
+      },
+      {
+        "id": "al-4",
+        "name": "Aluminum Wire",
+        "description": "High-quality aluminum wire scrap from various sources, clean and ready for recycling.",
+        "image": "/assets/images/products/Aluminium wire scrap.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": false
+      },
+      {
+        "id": "al-5",
+        "name": "Aluminum Tense (Engine Blocks)",
+        "description": "High-quality recycled aluminum engine blocks suitable for melting and reuse in manufacturing.",
+        "image": "/assets/images/products/Aluminium tense scrap.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": true
+      },
+      {
+        "id": "al-6",
+        "name": "Aluminum Wheels",
+        "description": "Clean aluminum wheels from automotive applications, ready for recycling and reprocessing.",
+        "image": "/assets/images/products/Aluminium wheels.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Aluminum",
+        "featured": false
+      },
+     
+      {
+        "id": "cu-2",
+        "name": "Copper Wire Scrap",
+        "description": "Clean copper wire scrap from electrical applications, offering high conductivity for recycling.",
+        "image": "/assets/images/products/Copper wire.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Copper",
+        "featured": true
+      },
+      {
+        "id": "cu-3",
+        "name": "Copper No. 1 (Clean Copper Tubing & Bus Bars)",
+        "description": "High-quality copper tubing and bus bars, clean and free from contaminants, ready for recycling.",
+        "image": "/assets/images/products/Coper tube.png",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Copper",
+        "featured": false
+      },
+      {
+        "id": "bs-1",
+        "name": "Brass Scrap",
+        "description": "Scrap material made from brass, suitable for recycling into new metal products.",
+        "image": "/assets/images/products/Brass scrap.webp",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Brass",
+        "featured": false
+      },
+      {
+        "id": "ld-1",
+        "name": "Lead Scrap (Recovered from Batteries)",
+        "description": "Recovered lead from used lead-acid batteries, processed for safe recycling.",
+        "image": "/assets/images/products/Lead scrap.webp",
+        "category": "Non-Ferrous Metals",
+        "subcategory": "Battery Lead",
+        "featured": false
+      },
+      {
+        "id": "zn-1",
+        "name": "Zinc Scrap",
+    "description": "Scrap zinc collected from galvanizing, die casting, and other industrial processes.",
+    "image": "/assets/images/products/Zinc.webp",
+    "category": "Non-Ferrous Metals",
+    "subcategory": "Zinc",
+        "featured": true
+      },
+    
+      {
+        "id": "pet-1",
+        "name": "PET Plastic (Water Bottles)",
+        "description": "Clean PET plastic from water bottles and beverage containers, ready for recycling.",
+        "image": "/assets/images/products/Pet bottle.png",
+        "category": "Plastic Scrap",
+        "subcategory": "PET",
+        "featured": true
+      },
+      {
+        "id": "hdpe-1",
+        "name": "HDPE (Detergent Containers)",
+        "description": "High-density polyethylene from detergent containers and similar products, suitable for recycling.",
+        "image": "/assets/images/products/Hdpe scrap.png",
+        "category": "Plastic Scrap",
+        "subcategory": "HDPE",
+        "featured": false
+      },
+    
+      {
+        "id": "ldpe-1",
+        "name": "LDPE (Plastic Bags)",
+        "description": "Low-density polyethylene from plastic bags and similar products, suitable for recycling.",
+        "image": "/assets/images/products/Ldpe scrap.png",
+        "category": "Plastic Scrap",
+        "subcategory": "LDPE",
+        "featured": false
+      },
+      {
+        "id": "upvc-1",
+        "name": "UPVC Scrap",
+        "description": "Unplasticized polyvinyl chloride from various applications, ready for recycling.",
+        "image": "/assets/images/products/Upvc scrap.png",
+        "category": "Plastic Scrap",
+        "subcategory": "UPVC",
+        "featured": false
+      },
+      {
+        "id": "onp-1",
+        "name": "Old Newspapers (ONP)",
+        "description": "Clean, sorted old newspapers ready for recycling and reprocessing into new paper products.",
+        "image": "/assets/images/products/Old newspapers (ONP).png",
+        "category": "Paper & Cardboard Scrap",
+        "subcategory": "ONP",
+        "featured": true
+      },
+      {
+        "id": "occ-1",
+        "name": "Old Corrugated Containers (OCC)",
+        "description": "Clean, sorted corrugated cardboard containers ready for recycling and reprocessing.",
+        "image": "/assets/images/products/Occ paper.png",
+        "category": "Paper & Cardboard Scrap",
+        "subcategory": "OCC",
+        "featured": false
+      },
+      {
+        "id": "mixed-1",
+        "name": "Mixed Paper",
+        "description": "Mixed paper waste from various sources, suitable for recycling and reprocessing.",
+        "image": "/assets/images/products/Mix paper.png",
+        "category": "Paper & Cardboard Scrap",
+        "subcategory": "Mixed Paper",
+        "featured": false
+      },
+      {
+        "id": "white-1",
+        "name": "White Paper",
+        "description": "Clean white paper waste, ideal for high-quality recycled paper products.",
+        "image": "/assets/images/products/White paper.png",
+        "category": "Paper & Cardboard Scrap",
+        "subcategory": "White Paper",
+        "featured": false
+      },
+      
+      {
+        "id": "battery-1",
+        "name": "Lithium-ion Batteries",
+        "description": "Used lithium-ion batteries from electronic devices, suitable for recycling and metal recovery.",
+        "image": "/assets/images/products/Car battery1.png",
+        "category": "E-Waste",
+        "subcategory": "Batteries",
+        "featured": false
+      },
+     
+      {
+        "id": "car-1",
+        "name": "Car Bodies Compacted",
+        "description": "Compacted car bodies ready for recycling and metal recovery, processed to save space.",
+        "image": "/assets/images/products/Compated car scrap.png",
+        "category": "Automotive Scrap",
+        "subcategory": "Car Bodies",
+        "featured": false
+      },
+      {
+        "id": "tire-1",
+        "name": "Tires Baled",
+        "description": "Baled used tires ready for recycling and processing into various products.",
+      "image": "/assets/images/products/Tyre baled.png",
+        "category": "Automotive Scrap",
+        "subcategory": "Tires",
+        "featured": true
+      },
+      {
+        "id": "radiator-1",
+        "name": "Radiators",
+        "description": "Used radiators from vehicles, containing valuable metals for recycling and recovery.",
+        "image": "/assets/images/products/Radiator scrap.png",
+        "category": "Automotive Scrap",
+        "subcategory": "Radiators",
+        "featured": false
+      },
+      {
+        "id": "alternator-1",
+       "name": "Alternators",
+      "description": "Used vehicle alternators, containing copper and aluminum components valuable for recycling and metal recovery.",
+        "image": "/assets/images/products/Alternator scrap.png",
+        "category": "Automotive Scrap",
+        "subcategory": "Alternators",
+        "featured": false
+      },
+      {
+        "id": "electric-1",
+        "name": "Electric Motor Scrap",
+        "description": "Scrap electric motors commonly sourced from vehicles and machinery, containing copper windings and recyclable metals ideal for recovery.",
+        "image": "/assets/images/products/Electric motor scrap.png",
+        "category": "Automotive Scrap",
+        "subcategory": "Electric Components",
+        "featured": false
+      }
+    ]
+  }
