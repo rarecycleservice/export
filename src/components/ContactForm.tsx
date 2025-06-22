@@ -78,7 +78,7 @@ const ContactForm = ({
       const formData = new FormData();
 
       // Add access token
-      formData.append("access_key", "41ff0c50-016b-41e8-aad3-e86ade8e7b40");
+      formData.append("access_key", "122d7a3d-d269-4c12-98ac-0a58924b91e9");
 
       // Add form fields
       Object.entries(data).forEach(([key, value]) => {
