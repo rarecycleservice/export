@@ -86,7 +86,7 @@ function AboutPage() {
           <h2 className="text-2xl font-semibold text-card-foreground mb-4 text-center">
             Our Certifications
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-6">
             <div className="border border-border rounded-md p-4 text-center">
              
               <img
@@ -143,6 +143,19 @@ function AboutPage() {
               <h3 className="font-medium mb-1">Rajasthan Pollution Control Board</h3>
               <p className="text-sm text-muted-foreground">
               (Environmental Compliance)
+              </p>
+            </div>
+
+            <div className="border border-border rounded-md p-4 text-center">
+            <img
+    src="/assets/images/products/environment agency logo.png"
+    alt="Environment Agency Logo"
+    className="w-16 h-auto mx-auto mb-2"
+  />
+              <h3 className="font-medium mb-1">Environment Agency</h3>
+              <h3 className="font-medium mb-1">CBDL613392</h3>
+              <p className="text-sm text-muted-foreground">
+              Waste Carrier Registration
               </p>
             </div>
 
